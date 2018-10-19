@@ -17,7 +17,7 @@
 		$number=$_POST['number'];
 			
 			if ($number % 2 ==0) {
-    echo "It's Even Number"; break;
+    echo "It's Even Number";
 		}
 	else{
 		echo "It's Odd Number";
